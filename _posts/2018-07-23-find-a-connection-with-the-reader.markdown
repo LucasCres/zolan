@@ -2,7 +2,7 @@
 layout: post
 title:  HP
 date:   2024-01-16 13:18:35 +0300
-image:  02.jpg
+image:  hp.png
 tags:   Resources
 ---
 HP es una empresa de tecnología que se dedica a la fabricación de productos electrónicos, como computadoras, impresoras y accesorios. HP es una de las marcas más reconocidas en el campo de la informática y ofrece una amplia gama de productos para uso personal y empresarial.
