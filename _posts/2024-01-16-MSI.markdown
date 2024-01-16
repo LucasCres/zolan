@@ -3,7 +3,7 @@ layout: post
 title:  MSI
 date:   2024-01-16 15:01:35 +0300
 image:  msi-logo.png 
-tags:   Style
+tags:   
 ---
 MSI o Micro-Star International, una empresa conocida por fabricar hardware de alta calidad, especialmente enfocado en productos para juegos y ordenadores. A continuacion conoceremos un poco mas a fondo esta marca.
 
